@@ -19,15 +19,22 @@
 - [dotnet new template](https://www.nuget.org/packages/Pri.Utility.Templates/)
 - [Roslyn code analyzer](https://github.com/peteraritchie/Messaging.Patterns/tree/master/PRI.Messaging.Patterns.Analyzer)
 - [Nuget packages](https://www.nuget.org/profiles/peterritchie)
+- Conference speaking 2023
+  - Codemash
+  - THAT Conference Tx
 - Conference speaking 2022
   - Kansas City Developer Convference (KCDC)
   - Prairie Developer Conference (PrDC) Regina
+- Certifications
+  - [Azure Fundamentals](https://www.credly.com/earner/earned/badge/b6cf8a1e-563c-4adb-9981-0c9d7cf8d97f)
+  - [Azure Administrator Associate](https://www.credly.com/earner/earned/badge/2ffbb3e6-8c8d-4538-bce7-6f1429ce1d64)
+  - [SOA Professional](https://www.credly.com/earner/earned/badge/2a7ddb45-a01e-48a0-b044-2e5036ce87a1)
+  - [SOA Analyst](https://www.credly.com/earner/earned/badge/5e718960-3de3-4bb0-96f0-5d60b03b783a)
 - Github contributions
   - dotnet roslyn
   - dotnet sdk
-  - dotnet docs
-  - ![](https://pbs.twimg.com/media/Feb1S10aAAAEvvH?format=jpg&name=4096x4096)
-
+  - dotnet docs  
+  ![](https://pbs.twimg.com/media/Feb1S10aAAAEvvH?format=jpg&name=4096x4096)
 <!--
 **peteraritchie/peteraritchie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
