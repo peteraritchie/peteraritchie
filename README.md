@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [VSSSpell dotnet new template](https://www.nuget.org/packages/Pri.Utility.Templates/)
 - 🌱 I’m currently learning Azure Solution Architect accreditation.
 - 💬 Ask me about [Pri.Messaging](https://github.com/peteraritchie/Messaging)
-- 📫 How to reach me: ~~[twitter](https://twitter.com/peterritchie)~~ [mastodon](https://mastodon.social/@peterritchie)
+- 📫 How to reach me: ~~[twitter](https://twitter.com/peterritchie)~~ [mastodon](https://mastodon.social/@peterritchie) [BlueSky](https://bsky.app/profile/peterritchie.bsky.social)
 - 😄 Pronouns: Him/He
 <!--
 - 👯 I’m looking to collaborate on ...
