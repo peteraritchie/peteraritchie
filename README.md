@@ -1,6 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Peter%20Ritchie-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peteraritchie/)](https://www.linkedin.com/in/peteraritchie/)
 [![Stack Overflow Badge](https://img.shields.io/badge/-Peter%20Ritchie-black?style=flat&logo=Stack%20Overflow&logoColor=orange&link=https://stackoverflow.com/users/5620/peter-ritchie)](https://stackoverflow.com/users/5620/peter-ritchie)
 [![Twitter Badge](https://img.shields.io/badge/-@peterritchie-1da1f2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/peterritchie)](https://twitter.com/peterritchie)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109297565954076867)
 [![Blog Badge](https://img.shields.io/badge/-Blog%20RSS-darkred?style=flat&logo=rss&logoColor=yellow&link=https://blog.peterritchie.com/feed.xml)](https://blog.peterritchie.com/feed.xml)
 [![Github Badge](https://img.shields.io/badge/-peteraritchie-404040?style=flat&logo=github&logoColor=cyan&link=https://github.com/peteraritchie)](https://github.com/peteraritchie)
 
