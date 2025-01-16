@@ -4,6 +4,7 @@
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/109297565954076867)
 [![Blog Badge](https://img.shields.io/badge/-Blog%20RSS-darkred?style=flat&logo=rss&logoColor=yellow&link=https://blog.peterritchie.com/feed.xml)](https://blog.peterritchie.com/feed.xml)
 [![Github Badge](https://img.shields.io/badge/-peteraritchie-404040?style=flat&logo=github&logoColor=cyan&link=https://github.com/peteraritchie)](https://github.com/peteraritchie)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/peterritchie.com)
 
 <!--
 - 🔭 I’m currently working on [VSSSpell dotnet new template](https://www.nuget.org/packages/Pri.Utility.Templates/)
