@@ -20,9 +20,14 @@
 - ⚡ Fun fact: My initials are PAR, but I don't play golf.
 
 ### Accomplishments
+- [Visual Studio Extensions](https://marketplace.visualstudio.com/publishers/peterritchie)
 - [dotnet new template](https://www.nuget.org/packages/Pri.Utility.Templates/)
 - [Roslyn code analyzer](https://github.com/peteraritchie/Messaging.Patterns/tree/master/PRI.Messaging.Patterns.Analyzer)
 - [Nuget packages](https://www.nuget.org/profiles/peterritchie)
+- Conference speaking 2025
+  - Prairie DevCon (Winnipeg)
+- Conference speaking 2024
+  - Prairie DevCon (Winnipeg)
 - Conference speaking 2023
   - Codemash
   - THAT Conference Tx
